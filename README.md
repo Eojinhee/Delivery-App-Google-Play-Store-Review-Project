@@ -83,10 +83,10 @@ Delivery App Google Play Store Review Project
 ### 5.1. 부정적 요인 - 가짜 5점의 실체
 5점 리뷰 중 **46.3%**가 부정적인 내용(불만)을 포함하고 있었습니다. (2명 중 1명은 가짜 5점)
 
-![Fake 5-Star Ratio](fake_5star_ratio_ko.png)
+
 <img width="800" height="600" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/80ea02ac-5515-46c3-bf3a-39f99dfb6243" />
 
-![Baemin Negative Keywords](baemin_negative_keywords_ko.png)
+
 <img width="1000" height="600" alt="Code_Generated_Image (2)" src="https://github.com/user-attachments/assets/43d07092-6da8-4b0d-9d0b-99f28fd18d38" />
 
 * **주요 불만 키워드:** `업데이트`, `오류/안됨`, `고객센터`, `삭제`, `최악`
@@ -106,7 +106,7 @@ Delivery App Google Play Store Review Project
 ### 6.1. 긍정적 요인 - 진짜 만족
 쿠팡이츠의 5점 리뷰는 부정적 내용이 5.3%에 불과한 '진짜 만족'이었습니다.
 
-![Coupang Real Keywords](coupang_positive_keywords_ko.png)
+
 <img width="1000" height="600" alt="Code_Generated_Image (3)" src="https://github.com/user-attachments/assets/55a4f8b0-04e3-4e44-9782-aeddb51828a8" />
 
 
