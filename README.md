@@ -153,4 +153,4 @@ Delivery App Google Play Store Review Project
 * **인사이트 도출:** 단순히 그래프를 그리는 것을 넘어, 현상의 원인을 알고리즘과 사용자 심리 관점에서 해석(트로이 목마 전략 등)하는 능력을 기를 수 있었습니다.
 
 ---
-*Created by [본인 이름]*
+*Created by [어진희]*
