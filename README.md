@@ -88,6 +88,7 @@ Delivery App Google Play Store Review Project
 
 
 <img width="1000" height="600" alt="Code_Generated_Image (2)" src="https://github.com/user-attachments/assets/43d07092-6da8-4b0d-9d0b-99f28fd18d38" />
+<img width="1000" height="600" alt="Code_Generated_Image (4)" src="https://github.com/user-attachments/assets/cb7ad780-3f1b-4659-9431-7e0e1e3d72eb" />
 
 * **주요 불만 키워드:** `업데이트`, `오류/안됨`, `고객센터`, `삭제`, `최악`
 * **인사이트:** 잦은 업데이트 후 발생하는 **앱 성능 저하(렉, 발열)**와 문제가 터졌을 때 **소통할 수 없는 고객센터**가 가장 큰 이탈 원인입니다.
@@ -108,6 +109,7 @@ Delivery App Google Play Store Review Project
 
 
 <img width="1000" height="600" alt="Code_Generated_Image (3)" src="https://github.com/user-attachments/assets/55a4f8b0-04e3-4e44-9782-aeddb51828a8" />
+<img width="1000" height="600" alt="Code_Generated_Image (5)" src="https://github.com/user-attachments/assets/f314b3f6-bf4b-4efe-ac7f-ee0f7735fc11" />
 
 
 * **주요 긍정 키워드:** `빠르고`, `편하고`, `좋아요`, `무료배달`, `직관적`
