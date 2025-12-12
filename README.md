@@ -48,7 +48,7 @@ Delivery App Google Play Store Review Project
 
 수집된 데이터의 평점 분포를 시각화했을 때, 극명한 차이가 발견되었습니다.
 
-![Rating Distribution](rating_distribution_ko.png)
+
 <img width="800" height="600" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/dd80c8d7-6afc-412f-8b39-b03a66bf0258" />
 
 
