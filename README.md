@@ -102,12 +102,16 @@ Delivery App Google Play Store Review Project
 단순 키워드 분석을 넘어, 사용자의 행동 패턴을 정량적으로 분석했습니다.
 
 #### ① 리뷰 길이(Length) 분석: 칭찬은 짧고 불만은 길다
-![Review Length Analysis](review_length_analysis_ko.png)
+
+<img width="1000" height="600" alt="Code_Generated_Image (6)" src="https://github.com/user-attachments/assets/4ea55644-0f22-41fb-a3c8-76e6acdf29c9" />
+
 * **분석:** '진짜 5점(만족)' 리뷰는 평균 **30~40자** 내외로 짧은 반면, '가짜 5점(불만)' 리뷰는 평균 **80자 이상**으로 약 **2배 이상** 길었습니다.
 * **인사이트:** 사용자는 단순히 "싫다"고 말하는 것이 아니라, 오류 상황이나 불편한 경험을 **구체적으로 설명하고 싶어 하는 욕구**가 강합니다. 이는 단순한 비난이 아니라 **"개선을 바라는 호소"**에 가깝습니다.
 
 #### ② 시계열(Time-Series) 분석: 업데이트와 불만의 상관관계
-![Monthly Negative Trend](monthly_negative_trend_ko.png)
+
+<img width="1200" height="600" alt="Code_Generated_Image (7)" src="https://github.com/user-attachments/assets/a81267e9-4661-411c-a5f1-5a202cd4ec19" />
+
 * **분석:** 부정적 리뷰(가짜 5점)의 발생 빈도를 시계열로 추적한 결과, 특정 시점(앱 대규모 업데이트 시기)에 불만 리뷰가 급증하는 **스파이크(Spike)** 현상이 관측되었습니다.
 * **인사이트:** 배달의민족의 사용자 경험 저하는 만성적이라기보다, **특정 업데이트나 서버 이슈 발생 시 급격히 악화**되는 경향이 있습니다. 이는 배포 전 QA(품질 관리) 프로세스의 강화를 시사합니다.
 
