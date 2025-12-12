@@ -49,6 +49,8 @@ Delivery App Google Play Store Review Project
 수집된 데이터의 평점 분포를 시각화했을 때, 극명한 차이가 발견되었습니다.
 
 ![Rating Distribution](rating_distribution_ko.png)
+<img width="800" height="600" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/dd80c8d7-6afc-412f-8b39-b03a66bf0258" />
+
 
 * **배달의민족 (좌측 그래프):** 수집된 상위 15,000개 리뷰가 **모두 5점**입니다. 이는 자연스러운 사용자 반응이 아니며, 플랫폼 알고리즘에 의해 편향된 결과입니다.
 * **쿠팡이츠 (우측 그래프):** 1점부터 5점까지 정규분포에 가깝게 나타나며, 사용자의 불만과 만족이 평점에 투명하게 반영됩니다.
@@ -82,7 +84,10 @@ Delivery App Google Play Store Review Project
 5점 리뷰 중 **46.3%**가 부정적인 내용(불만)을 포함하고 있었습니다. (2명 중 1명은 가짜 5점)
 
 ![Fake 5-Star Ratio](fake_5star_ratio_ko.png)
+<img width="800" height="600" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/80ea02ac-5515-46c3-bf3a-39f99dfb6243" />
+
 ![Baemin Negative Keywords](baemin_negative_keywords_ko.png)
+<img width="1000" height="600" alt="Code_Generated_Image (2)" src="https://github.com/user-attachments/assets/43d07092-6da8-4b0d-9d0b-99f28fd18d38" />
 
 * **주요 불만 키워드:** `업데이트`, `오류/안됨`, `고객센터`, `삭제`, `최악`
 * **인사이트:** 잦은 업데이트 후 발생하는 **앱 성능 저하(렉, 발열)**와 문제가 터졌을 때 **소통할 수 없는 고객센터**가 가장 큰 이탈 원인입니다.
@@ -102,6 +107,8 @@ Delivery App Google Play Store Review Project
 쿠팡이츠의 5점 리뷰는 부정적 내용이 5.3%에 불과한 '진짜 만족'이었습니다.
 
 ![Coupang Real Keywords](coupang_positive_keywords_ko.png)
+<img width="1000" height="600" alt="Code_Generated_Image (3)" src="https://github.com/user-attachments/assets/55a4f8b0-04e3-4e44-9782-aeddb51828a8" />
+
 
 * **주요 긍정 키워드:** `빠르고`, `편하고`, `좋아요`, `무료배달`, `직관적`
 * **인사이트:** 복잡한 기능 없이 **"주문 → 도착"** 과정이 간결하고 빠르다는 점이 5점 리뷰의 주된 이유였습니다. 특히 와우 멤버십 연계 혜택에 대한 충성도가 높습니다.
