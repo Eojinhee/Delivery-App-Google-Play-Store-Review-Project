@@ -1,6 +1,3 @@
-# Delivery-App-Google-Play-Store-Review-Project
-Delivery App Google Play Store Review Project
-
 
 #  배달 앱 사용자 경험(UX) 심층 비교 분석: 배달의민족 vs 쿠팡이츠
 ###  "5점의 역설(The Paradox of 5-Star): 별점 데이터 뒤에 숨겨진 소비자의 진짜 목소리"
