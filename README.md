@@ -107,7 +107,7 @@ Delivery App Google Play Store Review Project
 배달의민족은 **"혜택은 압도적이지만, 시스템이 불안하다"**는 양면성을 보였습니다.
 
 ### 6.1. 부정적 요인 - 가짜 5점의 실체
-5점 리뷰 중 **46.3%**가 부정적인 내용(불만)을 포함하고 있었습니다. (2명 중 1명은 가짜 5점)
+5점 리뷰 중 **37.1%**가 부정적인 내용(불만)을 포함하고 있었습니다. (2명 중 1명은 가짜 5점)
 
 
 <img width="800" height="600" alt="Code_Generated_Image (1)" src="https://github.com/user-attachments/assets/80ea02ac-5515-46c3-bf3a-39f99dfb6243" />
@@ -115,7 +115,7 @@ Delivery App Google Play Store Review Project
 
 <img width="1000" height="600" alt="Code_Generated_Image (2)" src="https://github.com/user-attachments/assets/43d07092-6da8-4b0d-9d0b-99f28fd18d38" />
 <img width="1000" height="600" alt="Code_Generated_Image (4)" src="https://github.com/user-attachments/assets/cb7ad780-3f1b-4659-9431-7e0e1e3d72eb" />
-
+사용 코드 negative_keywords = ['최악', '오류', '렉', '업데이트', '불편', '짜증', '안됨', '안돼', '연결', '상담', '문의', '삭제', '망해', '쓰레기', '버그', '개판', '화면', '로딩', '제발', '고치', '장난', '아깝', '돈날', '시간낭비']
 * **주요 불만 키워드:** `업데이트`, `오류/안됨`, `고객센터`, `삭제`, `최악`
 * **인사이트:** 잦은 업데이트 후 발생하는 **앱 성능 저하(렉, 발열)**와 문제가 터졌을 때 **소통할 수 없는 고객센터**가 가장 큰 이탈 원인입니다.
 
