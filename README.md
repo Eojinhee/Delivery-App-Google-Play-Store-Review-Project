@@ -1,6 +1,6 @@
 
 #  배달 앱 사용자 경험(UX) 심층 비교 분석: 배달의민족 vs 쿠팡이츠
-###  "5점의 역설(The Paradox of 5-Star): 별점 데이터 뒤에 숨겨진 소비자의 진짜 목소리"
+###  배달의 민족 vs 쿠팡이츠 핵심 문제 진단
 
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Web_Scraping-43B02A?style=flat-square&logo=selenium&logoColor=white)
