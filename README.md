@@ -63,7 +63,7 @@
 
 <img width="1000" height="600" alt="111" src="https://github.com/user-attachments/assets/a137bf8a-7fbe-4f97-8d06-cbbc9189d657" />
 
-> 학습 결과, Epoch 3에서 검증 정확도(Validation Accuracy) **83%**를 달성하여 최적 모델로 선정했다.
+> 학습 결과, Epoch 3에서 검증 정확도(Validation Accuracy) 83%를 달성하여 최적 모델로 선정했다.
 
 ---
 
@@ -222,6 +222,7 @@
 
 ---
 *2023143036 어진희*
+
 
 
 
