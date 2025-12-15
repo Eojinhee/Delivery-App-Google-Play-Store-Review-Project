@@ -59,9 +59,11 @@
 * **과정:** 라벨링된 2,500건으로 파인튜닝(Fine-tuning) 후, 나머지 20,000건의 감성을 예측 분류했다.
 
 #### ② 학습 결과 (Accuracy & Loss)
-**(중요: 여기에 학습 정확도/Loss 그래프 이미지를 반드시 넣어야 함. 없으면 텍스트로라도 '최종 검증 정확도 00% 달성'이라고 적어야 함)**
-> *[Image Placeholder: Epoch별 학습 정확도/Loss 그래프]*
-> 학습 결과, Epoch 3에서 검증 정확도(Validation Accuracy) **XX%**를 달성하여 최적 모델로 선정했다.
+
+
+<img width="1000" height="600" alt="111" src="https://github.com/user-attachments/assets/a137bf8a-7fbe-4f97-8d06-cbbc9189d657" />
+
+> 학습 결과, Epoch 3에서 검증 정확도(Validation Accuracy) **83%**를 달성하여 최적 모델로 선정했다.
 
 ---
 
@@ -220,6 +222,7 @@
 
 ---
 *2023143036 어진희*
+
 
 
 
