@@ -1,5 +1,5 @@
 # 배달 앱 사용자 경험(UX) 심층 비교 분석: 배달의민족 vs 쿠팡이츠
-### "데이터 이면의 진실: 가짜 5점과 트로이 목마 전략"
+### 배달의 민족 VS 쿠팡이츠 구글플레이스토어 리뷰 분석
 
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Web_Scraping-43B02A?style=flat-square&logo=selenium&logoColor=white)
@@ -221,6 +221,7 @@
 
 ---
 *2023143036 어진희*
+
 
 
 
